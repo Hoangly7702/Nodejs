@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoangly7702/Nodejs.git"
+  },
+  "keywords": [
+    "f8",
+    "learn",
+    "nodejs"
+  ],
+  "author": "Lyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hoangly7702/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Hoangly7702/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
