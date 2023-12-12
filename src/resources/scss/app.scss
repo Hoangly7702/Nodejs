@@ -1,0 +1,15 @@
+@import 'variable';
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: $background;
+}
+h2{
+    color: blue;
+}
+.app{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}

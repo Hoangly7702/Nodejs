@@ -1,0 +1,11 @@
+h1 {
+  color: white;
+  background-color: violet; }
+
+h2 {
+  color: blue; }
+
+.app {
+  justify-content: center;
+  align-items: center;
+  height: 100vh; }
